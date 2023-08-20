@@ -65,6 +65,13 @@ public class Main {
         sobj2.displayStaticVar(); // Displaying staticVar using obj2 (value will be the same)
 
 
+        System.out.println();
 
+        System.out.println("Primitive Data Types");
+        jFundamentals.primitiveDataTypes();
+
+        System.out.println();
+        System.out.println("Java Variable Type Conversion & Type Casting");
+        jFundamentals.typeCasting();
     }
 }
