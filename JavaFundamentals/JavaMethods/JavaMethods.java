@@ -1,4 +1,4 @@
-package JavaMethods;
+package JavaFundamentals.JavaMethods;
 
 public class JavaMethods {
 

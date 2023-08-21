@@ -1,4 +1,4 @@
-package JavaClasses;
+package JavaFundamentals.JavaClasses;
 
 public class Main {
     public static void main(String[] args) {
