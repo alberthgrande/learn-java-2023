@@ -8,5 +8,6 @@ public class Main {
         jExceptions.getMessageException();
 //        jExceptions.sampleException();
         jExceptions.outputException();
+//        jExceptions.needTryCatchClause();
     }
 }
