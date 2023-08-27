@@ -1,14 +1,14 @@
-# Learn Java 2023 
-    "roadmap_link": "https://roadmap.sh/java"
-
+# Learn Java 2023
+- Link: **[roadmap.sh](https://roadmap.sh/java/)**
+___
 # Fundamentals
-- Basic Syntax
-- DataTypes, Variables
-- Conditionals
-- Functions
-- Loops
-- Exception Handling
-- DataStructures
-- OOP, Interfaces, Classes
-- Packages
-- Working with Files and APIs
+- [x] Basic Syntax
+- [x] DataTypes, Variables
+- [x] Conditionals
+- [x] Functions
+- [x] Loops
+- [x] Exception Handling
+- [ ] DataStructures
+- [ ] OOP, Interfaces, Classes
+- [ ] Packages
+- [ ] Working with Files and APIs

@@ -24,5 +24,29 @@ public class ProbelemTwo {
         reverseArray(arr, 0, 5);
         System.out.println("Reversed Array: ");
         printArray(arr, 6);
+        System.out.println("\n");
+        printRecursiveArray(arr, 6);
+        System.out.println("Reversed Recursive Array: ");
+        recursiveArray(arr, 0, 5);
+        printRecursiveArray(arr, 6);
+
+    }
+
+    public static void recursiveArray(int arr[], int start, int end) {
+        int temp;
+
+        if (start >= end)
+            return;
+        temp = arr[start];
+        arr[start] = arr[end];
+        arr[end] = temp;
+
+        recursiveArray(arr, start+1, end-1);
+    }
+    public static void printRecursiveArray(int arr[], int size) {
+        for (int i = 0; i < size; i++) {
+            System.out.print(arr[i] +" ");
+        }
+        System.out.println();
     }
 }
