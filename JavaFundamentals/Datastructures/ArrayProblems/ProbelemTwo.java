@@ -21,8 +21,27 @@ public class ProbelemTwo {
         System.out.println("Rotated Array: ");
         rotateArray(arr, display, arrLength);
         printRotateArray(arr, arrLength);
+        System.out.println();
+        System.out.println("Rotate Array One");
+        rotateArrayOne(arr, display, arrLength);
 
 
+    }
+
+    public static void rotateArrayOne(int arr[], int display, int length) {
+        int place = 1;
+        while (place <= display) {
+            int last = arr[0];
+            for (int i = 0; i < length - 1; i++) {
+                arr[i] = arr[i + 1];
+            }
+            arr[length - 1] = last;
+            place++;
+        }
+
+        for (int i = 0; i < length; i++) {
+            System.out.print(arr[i] + " ");
+        }
     }
 
     public static void rotateArray(int arr[], int d, int n) {
