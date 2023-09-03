@@ -10,5 +10,13 @@ ___
 - [x] Exception Handling
 - [ ] DataStructures
 - [ ] OOP, Interfaces, Classes
+    - [x] Classes
+    - [ ] Interfaces
+    - [ ] Interfaces
+    - [ ] Object
+    - [ ] Inheritance
+    - [ ] Polymorphism
+    - [ ] Abstraction
+    - [ ] Encapsulation
 - [ ] Packages
 - [ ] Working with Files and APIs
