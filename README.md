@@ -20,3 +20,6 @@ ___
     - [ ] Encapsulation
 - [ ] Packages
 - [ ] Working with Files and APIs
+---
+# Advance
+- [ ] Dynamic Programming
