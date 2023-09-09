@@ -12,8 +12,7 @@ ___
 - [ ] OOP, Interfaces, Classes
     - [x] Classes
     - [ ] Interfaces
-    - [ ] Interfaces
-    - [ ] Object
+    - [X] Object
     - [ ] Inheritance
     - [ ] Polymorphism
     - [ ] Abstraction
