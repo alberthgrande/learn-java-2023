@@ -13,7 +13,7 @@
 - [x] Loops
 - [x] Exception Handling
 - [ ] DataStructures
-- [ ] OOP, Interfaces, Classes
+- [x] OOP, Interfaces, Classes
   - [x] Classes
   - [x] Interfaces
   - [x] Object
