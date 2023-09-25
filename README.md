@@ -21,8 +21,8 @@
   - [x] Polymorphism
   - [x] Abstraction
   - [x] Encapsulation
-- [ ] Packages
-- [ ] Working with Files and APIs
+- [x] Packages
+- [x] Working with Files and APIs
 
 ---
 
