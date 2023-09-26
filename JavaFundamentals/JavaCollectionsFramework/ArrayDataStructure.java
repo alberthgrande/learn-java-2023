@@ -1,4 +1,4 @@
-package JavaFundamentals.Datastructures;
+package JavaFundamentals.JavaCollectionsFramework;
 
 public class ArrayDataStructure {
     public static void oneDimentionalArray() {

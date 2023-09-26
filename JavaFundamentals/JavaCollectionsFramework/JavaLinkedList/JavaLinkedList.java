@@ -1,4 +1,4 @@
-package JavaFundamentals.Datastructures.JavaLinkedList;
+package JavaFundamentals.JavaCollectionsFramework.JavaLinkedList;
 
 import java.util.LinkedList;
 

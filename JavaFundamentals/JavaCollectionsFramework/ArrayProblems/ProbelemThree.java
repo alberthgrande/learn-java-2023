@@ -1,4 +1,4 @@
-package JavaFundamentals.Datastructures.ArrayProblems;
+package JavaFundamentals.JavaCollectionsFramework.ArrayProblems;
 
 public class ProbelemThree {
     public static void main(String[] args) {

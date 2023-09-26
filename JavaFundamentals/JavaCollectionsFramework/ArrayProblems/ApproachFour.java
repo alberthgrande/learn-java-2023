@@ -1,4 +1,4 @@
-package JavaFundamentals.Datastructures.ArrayProblems;
+package JavaFundamentals.JavaCollectionsFramework.ArrayProblems;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
