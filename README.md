@@ -12,7 +12,29 @@
 - [x] Functions
 - [x] Loops
 - [x] Exception Handling
-- [ ] DataStructures
+- [ ] Data Structures
+  - [ ] Array
+  - [ ] String
+  - [ ] Linked List
+  - [ ] Matrix/Grid
+  - [ ] Stack
+  - [ ] Queue
+  - [ ] Heap
+  - [ ] Hash
+- [ ] Algorithm
+  - [ ] Searching Algorithm
+  - [ ] Sorting Algorithm
+  - [ ] Divide and Conquer Algorithm
+  - [ ] Greedy Algorithms
+  - [ ] Recursion
+  - [ ] Backtracking Algorithm
+  - [ ] Dynamic Programming
+  - [ ] Pattern Searching
+  - [ ] Mathematical Algorithms
+  - [ ] Geometric Algorithms
+  - [ ] Bitwise Algorithms
+  - [ ] Randomized Algorithms
+  - [ ] Branch and Bound Algorithm
 - [x] OOP, Interfaces, Classes
   - [x] Classes
   - [x] Interfaces
